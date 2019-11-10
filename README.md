@@ -1,5 +1,5 @@
-# Illumino-coding-challenge
-A coding challenge by lllumino
+# Illumio-coding-challenge
+A coding challenge by Illumio
 
 __Problem Statement__
 
