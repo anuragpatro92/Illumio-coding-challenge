@@ -1,4 +1,4 @@
-# lllumino-coding-challenge
+# Illumino-coding-challenge
 A coding challenge by lllumino
 
 __Problem Statement__
